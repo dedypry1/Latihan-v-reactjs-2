@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1574740126268,
+      "title": "belajar",
+      "body": "googgle adsense",
+      "userId": 1
+    },
+    {
+      "id": 1574742408748,
+      "title": "dedy",
+      "body": "belajarg kodeeditor fefef",
+      "userId": 1
+    },
+    {
+      "id": 1574743856317,
+      "title": "face boolk",
+      "body": "belajar facebook",
+      "userId": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
